@@ -20,6 +20,7 @@ The app contains the following features:
 - Topic Links: this feature makes it easy to discover related topics.
 
 Count of Hadith in Arabic: 4000
+
 Count of Hadith in English: 1000
 
 Insha'Allah the app will be regularly updated to add more Hadith, to add new features, and to resolve any bugs.
