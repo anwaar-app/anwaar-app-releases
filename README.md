@@ -4,11 +4,11 @@ This repo will hold links and binaries related to the latest release of Anwaar a
 
 [App Website](https://sites.google.com/view/anwaarappen)
 
-[Latest Release: 4.4.0](https://github.com/anwaar-app/anwaar-app-releases/releases/tag/release-4.4.0)
+[Latest Release: 5.1.0](https://github.com/anwaar-app/anwaar-app-releases/releases/tag/release-5.1.0)
 
 ---
 
-Anwaar app is a search engine for the Hadith of Prophet Muhammad (saww) and Ahl al-Bayt (as) in Arabic and English.
+Anwaar app is a search engine for the Hadith and narrations of Prophet Muhammad (saww) and Ahl al-Bayt (as) in Arabic and English.
 
 The app contains the following features:
 - Search for Hadith: searching can be done using phrases from the Hadith text, and it is possible to filter the search results by choosing the sayer or by choosing several topics.
@@ -19,8 +19,10 @@ The app contains the following features:
 - Random Browsing: this feature allows displaying a random group of Hadith.
 - Topic Links: this feature makes it easy to discover related topics.
 
-Count of Hadith in Arabic: 4000
+Count of Hadith in Arabic: 4050
 
-Count of Hadith in English: 1000
+Count of Hadith in English: 1200
+
+The sources of Hadith used in the app are Hadith books by Shia Muslim scholars.
 
 Insha'Allah the app will be regularly updated to add more Hadith, to add new features, and to resolve any bugs.
