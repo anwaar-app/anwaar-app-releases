@@ -4,7 +4,7 @@ This repo will hold links and binaries related to the latest release of Anwaar a
 
 [App Website](https://sites.google.com/view/anwaarappen)
 
-[Latest Release: 5.2.0](https://github.com/anwaar-app/anwaar-app-releases/releases/tag/release-5.2.0)
+[Latest Release: 5.3.0](https://github.com/anwaar-app/anwaar-app-releases/releases/tag/release-5.3.0)
 
 ---
 
@@ -21,9 +21,9 @@ The app contains the following features:
 - Random Browsing: this feature allows displaying a random group of Hadith.
 - Topic Links: this feature makes it easy to discover related topics.
 
-Count of Hadith in Arabic: 4100
+Count of Hadith in Arabic: 4200
 
-Count of Hadith in English: 1400
+Count of Hadith in English: 1800
 
 The Hadith included in the app have been shared by respected Shia Muslim scholar associations.
 
