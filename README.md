@@ -4,7 +4,7 @@ This repo will hold links and binaries related to the latest release of Anwaar a
 
 [App Website](https://sites.google.com/view/anwaarappen)
 
-[Latest Release: 6.1.0](https://github.com/anwaar-app/anwaar-app-releases/releases/tag/release-6.1.0)
+[Latest Release: 6.2.0](https://github.com/anwaar-app/anwaar-app-releases/releases/tag/release-6.2.0)
 
 ---
 
